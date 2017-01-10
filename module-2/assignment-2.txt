@@ -1,0 +1,77 @@
+REMICK
+GWCB_assignment-2
+
+listing 1:
+https://www.dice.com/jobs/detail/Drupal-Front-End-Developer-Slait-Consulting-Washington-DC-20005/10122011/582324?icid=sr15-1p&q=junior%20front-end%20developer&l=Washington,%20DC
+
+CMS: “A web content management system (WCMS) is a software system that provides website authoring, collaboration, and administration tools designed to allow users with little knowledge of web programming languages or markup languages to create and manage website content with relative ease.”
+(source: wikipedia)
+
+YUI: “The Yahoo! User Interface Library (YUI) is a discontinued open-source JavaScript library for building richly interactive web applications using techniques such as Ajax, DHTML, and DOM scripting.”
+(source: wikipedia)
+
+listing 2:
+https://www.dice.com/jobs/detail/Front%26%2345End-Web-Developer-CyberCoders-Suitland-MD-20746/cybercod/SS2-133835613?icid=sr27-1p&q=junior%20front-end%20developer&l=Washington,%20DC
+
+PerlScript:”Perl is a family of high-level, general-purpose, interpreted, dynamic programming languages. The languages in this family include Perl 5 and Perl 6.[6]” The duct tape programming language.
+(source: wikipedia)
+
+listing 3:
+https://www.dice.com/jobs/detail/Front-End%26%2347Digital-Signage-Developer-%28IT%29-Metropolitan-Washington-Airports-Authority-Arlington-VA-20598/RTL119398/MWAA-16-11774?icid=sr33-2p&q=junior%20front-end%20developer&l=Washington,%20DC
+
+KSOA:”KSAOs are the job-related Knowledges, Skills, Abilities, and Other characteristics that an applicant must have to perform successfully in the position. KSAOs typically fall into two major categories – technical and behavioral.”
+(source: chrmglobal.com)
+
+listing 4:
+https://www.dice.com/jobs/detail/Front%26%2345End-Web-Developer-Vectorworks%2C-Inc.-Columbia-MD-21046/10188947/921685?icid=sr37-2p&q=junior%20front-end%20developer&l=Washington,%20DC
+
+PHP:”PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
+
+Instead of lots of commands to output HTML (as seen in C or Perl), PHP pages contain HTML with embedded code that does "something" (in this case, output "Hi, I'm a PHP script!"). The PHP code is enclosed in special start and end processing instructions <?php and ?> that allow you to jump into and out of "PHP mode."
+
+What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was. You can even configure your web server to process all your HTML files with PHP, and then there's really no way that users can tell what you have up your sleeve.”
+(source: http://php.net/manual/en/intro-whatis.php)
+
+listing 5:
+https://www.dice.com/jobs/detail/Junior-Software-Developer-Chenega-Corporation-Fort-Belvoir-VA-22060/10125215/1600003278-733?icid=sr49-2p&q=junior%20front-end%20developer&l=Washington,%20DC
+
+integration test: “Integration testing (sometimes called integration and testing, abbreviated I&T) is the phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing.[1]
+
+The purpose of integration testing is to verify functional, performance, and reliability requirements placed on major design items.”
+(source: wikipedia)
+
+listing 6:
+https://www.dice.com/jobs/detail/Junior-Software-Engineer-with-Polygraph-NORTHROP-GRUMMAN-Annapolis-Junction-MD-20701/ngitbot/15016131?icid=sr58-2p&q=junior%20front-end%20developer&l=Washington,%20DC
+
+Maven: “Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
+”
+(source: maven.apache.org)
+
+Listing 7:
+https://www.dice.com/jobs/detail/Junior-Web-Developer-%28TS%26%2347SCI-Poly%29-Deloitte-Washington-DC-20001/10106525/21151802000005672?icid=sr15-1p&q=junior%20fdeveloper&l=Washington,%20DC
+
+RDBMS: “A relational database management system (RDBMS) is a database management system (DBMS) that is based on the relational model.” SQL is an example of one. “The data in RDBMS is stored in database objects called tables. The table is a collection of related data entries and it consists of columns and rows.”
+(source: wikipedia/tutorials point)
+
+Listing 8:
+https://www.dice.com/jobs/detail/Junior-Systems-Engineer-ManTech-Advanced-Systems-International-Chantilly-VA-20151/10120503/88187BR?icid=sr29-1p&q=junior%20fdeveloper&l=Washington,%20DC
+
+ITIL: “ITIL describes processes, procedures, tasks, and checklists which are not organization-specific, but can be applied by an organization for establishing integration with the organization's strategy, delivering value, and maintaining a minimum level of competency. It allows the organization to establish a baseline from which it can plan, implement, and measure. It is used to demonstrate compliance and to measure improvement.”
+
+(source: wikipedia)
+
+Listing 9:
+https://www.dice.com/jobs/detail/Sr-.NET%26%2347Web-Developer-%28US-Citizenship-req%29-Arcbridge-Consulting-%26-Training-Inc-Washington-DC-20001/10284764/814682?icid=sr121-5p&q=junior%20fdeveloper&l=Washington,%20DC
+
+.NET:  “.NET Framework (pronounced dot net) is a software framework developed by Microsoft that runs primarily on Microsoft Windows. It includes a large class library known as Framework Class Library (FCL) and provides language interoperability (each language can use code written in other languages) across several programming languages. Programs written for .NET Framework execute in a software environment (in contrast to a hardware environment) known as Common Language Runtime (CLR), an application virtual machine that provides services such as security, memory management, and exception handling. (As such, computer code written using .NET Framework is called "managed code".) FCL and CLR together constitute .NET Framework.”
+(source: wikipedia)
+
+ASP.NET:”ASP.NET is an open source web framework for building modern web apps and services with .NET. ASP.NET creates websites based on HTML5, CSS, and JavaScript that are simple, fast, and can scale to millions of users.”
+(source: asp.net)
+
+Listing 10:
+https://www.dice.com/jobs/detail/Junior%26%2347Mid-Java-Developer%28Candidate-must-be-US-Citizen%29-Vinsys-Information-Technology-Inc-Washington-DC-20001/10116669/JPC7-21582?icid=sr96-4p&q=junior%20fdeveloper&l=Washington,%20DC
+
+J2EE: “Short for Java 2 Platform Enterprise Edition. J2EE is a platform-independent, Java-centric environment from Sun for developing, building and deploying Web-based enterprise applications online. The J2EE platform consists of a set of services, APIs, and protocols that provide the functionality for developing multitiered, Web-based applications.”
+
+
