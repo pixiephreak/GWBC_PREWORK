@@ -59,7 +59,6 @@ var animate = function(){
 
 	for(let i=0; i<200; i++){
 	left += 2;
-	console.log(left);
 	box.style.left = `${left+=2}px`;
 
 	}
